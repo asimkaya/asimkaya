@@ -20,7 +20,7 @@ Hi, I'm **Asım Emre Kaya**, a Full Stack Web Developer 🚀 from Turkey, curren
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning MongoDB and Angular; 
+- 🌱 I’m currently learning .Net Core and Angular; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@asim_exe](https://twitter.com/asim_exe);
 
